@@ -1,17 +1,27 @@
 let config = {
   "Title": "Pastelle - Links",
   "Name": "Pastelle",
-  "Description": "🌈 rockstar ⭐ trans girl 💫 who is not afraid to get a little dirty 👅🔥",
+  "Description": "ur fav goth gf! 🏳️‍⚧️ • 21 • top 3% • (she/her)",
   "links": [
     {
-      "Title": "OnlyFans",
+      "Title": "Spicy stuff 🔥🔥🔥",
       "URL": "https://onlyfans.com/pastelle_trash",
-      "icon_classes": "fas fa-link",
+      "icon_classes": "fas fa-lock",
     },
     {
-      "Title": "Twitter",
-      "URL": "https://twitter.com/Pastelle_Trash",
-      "icon_classes": "fab fa-twitter",
+      "Title": "TikTok",
+      "URL": "https://www.tiktok.com/@pastelle_trash",
+      "icon_classes": "fab fa-tiktok",
+    },
+    {
+      "Title": "Instagram",
+      "URL": "http://Instagram.com/pastelle_trash",
+      "icon_classes": "fab fa-instagram"
+    },
+    {
+      "Title": "Twitch",
+      "URL": "https://www.twitch.tv/pastelle_trash",
+      "icon_classes": "fab fa-twitch"
     },
     {
       "Title": "Reddit",
@@ -19,9 +29,9 @@ let config = {
       "icon_classes": "fab fa-reddit"
     },
     {
-      "Title": "Instagram",
-      "URL": "http://Instagram.com/pastelle_trash",
-      "icon_classes": "fab fa-instagram"
+      "Title": "Twitter",
+      "URL": "https://twitter.com/Pastelle_Trash",
+      "icon_classes": "fab fa-twitter",
     },
   ]
 }

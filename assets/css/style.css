@@ -1,7 +1,7 @@
 body {
-  background: linear-gradient(-45deg, #d35ecd, #5aad45, #23a6d5, #3a0eb3);
-  background-size: 400% 400%;
-  animation: gradient 15s ease infinite;
+  background: /* linear-gradient(-45deg, #d35ecd, #5aad45, #23a6d5, #3a0eb3) */ #fef5ee; 
+  background-size: 100% 100%;
+  /* animation: gradient 15s ease infinite; */
 }
 
 @keyframes gradient {
@@ -35,7 +35,7 @@ img {
   text-align: center;
   padding: 10px;
   font-family: "Dosis", sans-serif;
-  color: white;
+  color: #89837f;
   font-size: 22px;
   letter-spacing: 2px;
 }
@@ -44,7 +44,7 @@ img {
   text-align: center;
   padding: 2px;
   font-family: "Dosis", sans-serif;
-  color: white;
+  color: #89837f;
   font-size: 15px;
   letter-spacing: 2px;
 }
@@ -53,7 +53,7 @@ img {
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  border: 0.5px solid rgb(255, 255, 255);
+  border: 0.5px solid #89837f;
   border-width: 1px;
   width: 490px;
   display: block;
@@ -68,7 +68,7 @@ img {
 
 .links-in {
   padding: 5px;
-  border: 0.5px solid rgba(255, 255, 255, 0);
+  border: 0.5px solid #89837f;
   border-width: 1px;
   width: 30px;
   display: block;
@@ -80,13 +80,13 @@ img {
 
 .hover {
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: #89837f;
   transition: color 1s;
 }
 
 .hover:hover {
-  color: rgb(0, 0, 0);
-  background: rgb(255, 255, 255);
+  color: #373636;
+  background: #fef5ee;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ img {
   text-align: center;
   margin-top: 30px;
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: #89837f;
   font-family: "Handlee", cursive;
 }
 
@@ -111,7 +111,7 @@ img {
     text-align: center;
     margin-top: 20px;
     padding: 20px;
-    border: 0.5px solid rgb(255, 255, 255);
+    border: 0.5px solid #89837f;
     border-width: 1px;
     width: 290px;
     display: block;
@@ -125,7 +125,7 @@ img {
     text-align: center;
     padding: 2px;
     font-family: "Dosis", sans-serif;
-    color: white;
+    color: #89837f;
     font-size: 15px;
     letter-spacing: 1px;
   }
@@ -133,7 +133,7 @@ img {
 
 .links-footer {
   padding: 4px;
-  border: 0.5px solid rgb(255, 255, 255);
+  border: 0.5px solid #89837f;
   border-width: 1px;
   width: 40px;
   display: inline-block;
