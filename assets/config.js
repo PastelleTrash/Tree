@@ -1,7 +1,7 @@
 let config = {
   "Title": "Pastelle - Links",
   "Name": "Pastelle",
-  "Description": "ur fav goth gf! 🏳️‍⚧️ • 21 • top 3% • (she/her)",
+  "Description": "ur fav big d... gf! 🏳️‍⚧️ • 21 • top 1% • (she/her)",
   "links": [
     {
       "Title": "Spicy stuff 🔥🔥🔥",
